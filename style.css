@@ -1,0 +1,11 @@
+.report-paragraph {
+  font-family: "Tangerine", serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+.report-heading {
+  font-family: "Tangerine", serif;
+  font-size: 40px;
+  font-weight: 700;
+  color: blueviolet;
+}
